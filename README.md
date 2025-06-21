@@ -1,2 +1,2 @@
-# data-analysis-web-proxy
+# data-analytics-web-proxy
 A repository containing the code for a web proxy from the data-analysis-ui to backend services
